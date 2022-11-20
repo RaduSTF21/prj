@@ -1,0 +1,15 @@
+C:\Users\night\source\repos\Proiect_Radu_Stefan\bin\Debug\net6.0\Proiect_Radu_Stefan.exe
+C:\Users\night\source\repos\Proiect_Radu_Stefan\bin\Debug\net6.0\Proiect_Radu_Stefan.deps.json
+C:\Users\night\source\repos\Proiect_Radu_Stefan\bin\Debug\net6.0\Proiect_Radu_Stefan.runtimeconfig.json
+C:\Users\night\source\repos\Proiect_Radu_Stefan\bin\Debug\net6.0\Proiect_Radu_Stefan.dll
+C:\Users\night\source\repos\Proiect_Radu_Stefan\bin\Debug\net6.0\Proiect_Radu_Stefan.pdb
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.csproj.AssemblyReference.cache
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.AssemblyInfoInputs.cache
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.AssemblyInfo.cs
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.csproj.CoreCompileInputs.cache
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.dll
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\refint\Proiect_Radu_Stefan.dll
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.pdb
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\Proiect_Radu_Stefan.genruntimeconfig.cache
+C:\Users\night\source\repos\Proiect_Radu_Stefan\obj\Debug\net6.0\ref\Proiect_Radu_Stefan.dll
